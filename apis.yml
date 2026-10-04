@@ -41,7 +41,7 @@ created: '2026-07-17'
 modified: '2026-07-21'
 tags:
 - Company
-- Real-Estate
+- Real Estate
 - Brazil
 - Classifieds
 - Property
@@ -53,6 +53,7 @@ tags_raw:
 - Classifieds
 - Property
 - Marketplace
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
